@@ -1,2 +1,2 @@
-# presentacion-dual-2-DAW
-Presentación del periodo dual 2º DAW
+# Presentación dual 2º DAW
+En este repositorio, adjunto la presentación en formato PDF de mi proyecto de formación profesional dual.
